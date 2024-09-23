@@ -2,4 +2,8 @@ Earlier this year, the company's AR3 drone was featured in a Ministry of Defence
 
 News News News
 Mtaki Mainda is doing some changesn right here
+ 
+ It now ok with conflicts
+ 
+=======
 This is the Other time doing this changes
